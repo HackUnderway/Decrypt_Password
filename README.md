@@ -1,5 +1,5 @@
 # Decrypt_Password
-Decrypt Password in Python
+Decrypt password from PDF documents in Python
 
 <img src="https://i.imgur.com/k3uJwfQ.png" title="Decrypt Password">
 
